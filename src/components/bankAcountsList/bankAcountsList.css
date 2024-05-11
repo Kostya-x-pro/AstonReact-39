@@ -1,0 +1,10 @@
+.acount_list {
+  margin: 0 auto;
+  padding: 30px;
+  width: 600px;
+  background-color: #91a5ed;
+}
+
+.acount_list_item {
+  font-size: 22px;
+}
